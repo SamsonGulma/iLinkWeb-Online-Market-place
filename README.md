@@ -1,4 +1,4 @@
-# ILINK E-Commers
+# ILINK Online Market-place
 
 A brief description of what the project does.
 
